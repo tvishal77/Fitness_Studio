@@ -13,8 +13,8 @@ function Home() {
             <Hero />
             <Exercises />
             <Start />
-            <Pricing />
             <Testimonials />
+            <Pricing />
             <Footer />
         </>
     )
