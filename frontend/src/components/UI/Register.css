@@ -1,0 +1,66 @@
+.container1{
+    
+    width: 50%;
+    margin: 8vh auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 20px 20px 20px rgba(176, 41, 255, 0.2);
+  }
+  
+  .form-group {
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 2vh;
+    color: brown;
+    font-style: italic;
+    font-size: 3vh;
+  }
+  
+  input[type='text'],
+  input[type='email'],
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #c00fec;
+    border-radius: 1vh;
+  }
+  
+  h1.reg{
+    color: chocolate;
+    font-style: italic;
+    text-align: center;
+
+  }
+  input[type='submit'] {
+    background-color: #068ab5;
+    color: #ebe3e3;
+    padding: 10px;
+    border: none;
+    margin-top: 2vh;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+  
+  input[type='submit']:hover {
+    background-color: #069d70;
+  }
+  button{
+    background-color: #068ab5;
+    color: #ebe3e3;
+    padding: 10px;
+    border: none;
+    margin-top: 2vh;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 2vh;
+  }
+  button:hover{
+    background-color: #069d70;
+  }
+  
