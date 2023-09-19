@@ -106,9 +106,6 @@ function Register() {
                         <input type="submit" value="Register" />
                         <button><Link to="/">Home</Link></button>
                     </div>
-                    <div className="form-group">
-
-                    </div>
 
                 </div>
             </form>
